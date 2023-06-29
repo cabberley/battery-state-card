@@ -226,8 +226,6 @@ const getBatteryLevel = (config: IBatteryEntityConfig, hass?: HomeAssistant): st
     }
     else {
         const candidates: string[] = [
-            entityData.attributes.battery_level,
-            entityData.attributes.battery,
             entityData.state
         ];
 
