@@ -3,7 +3,7 @@
   "version": "2.1.1",
   "description": "Battery State card for Home Assistant",
   "main": "dist/battery-state-card.js",
-  "author": "Max Chodorowski",
+  "author": "Chris Abberley",
   "license": "MIT",
   "keywords": [
     "battery",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxwroc/battery-state-card.git"
+    "url": "https://github.com/cabberley/battery-state-card.git"
   },
   "scripts": {
     "build": "rollup -c",
