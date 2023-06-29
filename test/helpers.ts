@@ -141,6 +141,7 @@ interface IEntityAttributes {
     friendly_name?: string;
     battery_level?: string;
     battery?: string;
+    temperature?: string;
     device_class?: string;
 }
 
